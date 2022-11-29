@@ -7,4 +7,8 @@ class Feature
     {
         return ['Honda', 'BMW'];
     }
+    public function f()
+    {
+        echo  "process flow";
+    }
 }
