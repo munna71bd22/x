@@ -5,7 +5,7 @@ class Feature
 
     public function getCar()
     {
-        return ['Honda', 'BMW'];
+        return ['Honda', 'BMW','X Corolla'];
     }
     public function f()
     {
